@@ -1,0 +1,77 @@
+{"sysstat": {
+	"hosts": [
+		{
+			"nodename": "walter-VMware-Virtual-Platform",
+			"sysname": "Linux",
+			"release": "7.0.0-38-generic",
+			"machine": "x86_64",
+			"number-of-cpus": 2,
+			"file-date": "2026-10-31",
+			"file-utc-time": "17:58:22",
+			"timezone": "WET",
+			"statistics": [
+				{
+					"timestamp": {"date": "2026-10-31", "time": "18:10:00", "tz": "UTC", "interval": 600},
+					"cpu-load": [
+						{"cpu": "all", "user": 14.93, "nice": 0.00, "system": 4.19, "iowait": 0.04, "steal": 0.00, "idle": 80.84}
+					],
+					"memory": {"memfree": 1505048, "avail": 3326820, "memused": 1657956, "memused-percent": 30.20, "buffers": 45032, "cached": 2022532, "commit": 10759132, "commit-percent": 120.44, "active": 2938588, "inactive": 432304, "dirty": 120}
+				},
+				{
+					"timestamp": {"date": "2026-10-31", "time": "18:20:00", "tz": "UTC", "interval": 600},
+					"cpu-load": [
+						{"cpu": "all", "user": 14.75, "nice": 0.00, "system": 3.69, "iowait": 0.01, "steal": 0.00, "idle": 81.55}
+					],
+					"memory": {"memfree": 1499268, "avail": 3322108, "memused": 1661960, "memused-percent": 30.28, "buffers": 46044, "cached": 2022944, "commit": 10759776, "commit-percent": 120.45, "active": 2939832, "inactive": 433316, "dirty": 220}
+				},
+				{
+					"timestamp": {"date": "2026-10-31", "time": "18:30:00", "tz": "UTC", "interval": 600},
+					"cpu-load": [
+						{"cpu": "all", "user": 13.52, "nice": 0.00, "system": 4.08, "iowait": 0.17, "steal": 0.00, "idle": 82.23}
+					],
+					"memory": {"memfree": 272928, "avail": 3324168, "memused": 1630776, "memused-percent": 29.71, "buffers": 53652, "cached": 3230336, "commit": 10858432, "commit-percent": 121.56, "active": 2859168, "inactive": 1658212, "dirty": 988}
+				},
+				{
+					"timestamp": {"date": "2026-10-31", "time": "18:40:00", "tz": "UTC", "interval": 600},
+					"cpu-load": [
+						{"cpu": "all", "user": 6.88, "nice": 0.01, "system": 2.36, "iowait": 0.06, "steal": 0.00, "idle": 90.70}
+					],
+					"memory": {"memfree": 455012, "avail": 3321452, "memused": 1631196, "memused-percent": 29.72, "buffers": 43984, "cached": 3054828, "commit": 11321740, "commit-percent": 126.74, "active": 1264128, "inactive": 3063500, "dirty": 304}
+				},
+				{
+					"timestamp": {"date": "2026-10-31", "time": "18:50:00", "tz": "UTC", "interval": 600},
+					"cpu-load": [
+						{"cpu": "all", "user": 1.39, "nice": 0.00, "system": 0.41, "iowait": 0.01, "steal": 0.00, "idle": 98.19}
+					],
+					"memory": {"memfree": 172432, "avail": 3054504, "memused": 1888568, "memused-percent": 34.41, "buffers": 44724, "cached": 3079000, "commit": 11543484, "commit-percent": 129.22, "active": 1531744, "inactive": 3078768, "dirty": 324}
+				},
+				{
+					"timestamp": {"date": "2026-10-31", "time": "19:00:00", "tz": "UTC", "interval": 599},
+					"cpu-load": [
+						{"cpu": "all", "user": 15.47, "nice": 0.07, "system": 3.77, "iowait": 0.04, "steal": 0.00, "idle": 80.65}
+					],
+					"memory": {"memfree": 538232, "avail": 3204460, "memused": 1748560, "memused-percent": 31.85, "buffers": 47904, "cached": 2838800, "commit": 11459832, "commit-percent": 128.29, "active": 1201216, "inactive": 3016968, "dirty": 480}
+				},
+				{
+					"timestamp": {"date": "2026-10-31", "time": "19:10:00", "tz": "UTC", "interval": 601},
+					"cpu-load": [
+						{"cpu": "all", "user": 36.12, "nice": 0.00, "system": 3.87, "iowait": 0.74, "steal": 0.00, "idle": 59.27}
+					],
+					"memory": {"memfree": 787428, "avail": 2555856, "memused": 2403636, "memused-percent": 43.79, "buffers": 35592, "cached": 1955464, "commit": 12676064, "commit-percent": 141.90, "active": 1231236, "inactive": 2778060, "dirty": 164}
+				},
+				{
+					"timestamp": {"date": "2026-10-31", "time": "19:20:00", "tz": "UTC", "interval": 600},
+					"cpu-load": [
+						{"cpu": "all", "user": 32.38, "nice": 0.07, "system": 1.16, "iowait": 0.04, "steal": 0.00, "idle": 66.36}
+					],
+					"memory": {"memfree": 872488, "avail": 2759920, "memused": 2193788, "memused-percent": 39.97, "buffers": 46808, "cached": 2059228, "commit": 12099692, "commit-percent": 135.45, "active": 1019076, "inactive": 2848256, "dirty": 3016}
+				}
+			],
+			"restarts": [
+				{
+					"boot": {"date": "2026-10-31", "time": "17:58:22", "tz": "UTC", "cpu_count": 2}
+				}
+			]
+		}
+	]
+}}

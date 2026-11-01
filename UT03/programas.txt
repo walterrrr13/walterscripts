@@ -1,0 +1,4 @@
+ncdu
+bind9-dnsutils
+whois
+lolcat
